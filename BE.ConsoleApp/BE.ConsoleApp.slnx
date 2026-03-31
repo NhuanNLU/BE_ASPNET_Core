@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="BE.ConsoleApp/BE.ConsoleApp.csproj" />
+  <Project Path="BE.Common/BE.Common.csproj" Id="be3e59af-63c6-4873-a7b1-44e99c5c3503" />
+  <Project Path="BE.ConsoleApp/BE.ConsoleApp.csproj" Id="3da146cc-d56b-47e6-9910-9767f450171a" />
+  <Project Path="BE.DataAccess/BE.DataAccess.csproj" Id="787db224-ccda-47d4-93b1-c248117aab03" />
 </Solution>
