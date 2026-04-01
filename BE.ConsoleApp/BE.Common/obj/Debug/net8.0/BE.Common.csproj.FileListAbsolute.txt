@@ -1,0 +1,12 @@
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\bin\Debug\net8.0\BE.Common.deps.json
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\bin\Debug\net8.0\BE.Common.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\bin\Debug\net8.0\BE.Common.pdb
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\BE.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\BE.Common.AssemblyInfoInputs.cache
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\BE.Common.AssemblyInfo.cs
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\BE.Common.csproj.CoreCompileInputs.cache
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\BE.Common.sourcelink.json
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\BE.Common.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\refint\BE.Common.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\BE.Common.pdb
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.Common\obj\Debug\net8.0\ref\BE.Common.dll

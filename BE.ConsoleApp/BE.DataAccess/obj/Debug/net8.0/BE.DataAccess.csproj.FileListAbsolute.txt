@@ -1,0 +1,16 @@
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\bin\Debug\net8.0\BE.DataAccess.deps.json
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\bin\Debug\net8.0\BE.DataAccess.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\bin\Debug\net8.0\BE.DataAccess.pdb
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\bin\Debug\net8.0\BE.Common.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\bin\Debug\net8.0\BE.Common.pdb
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.csproj.AssemblyReference.cache
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.AssemblyInfoInputs.cache
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.AssemblyInfo.cs
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.csproj.CoreCompileInputs.cache
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.sourcelink.json
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataA.87A1643F.Up2Date
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\refint\BE.DataAccess.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.pdb
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.DataAccess\obj\Debug\net8.0\ref\BE.DataAccess.dll

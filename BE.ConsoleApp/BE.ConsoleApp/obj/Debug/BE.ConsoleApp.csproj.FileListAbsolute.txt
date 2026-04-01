@@ -1,7 +1,0 @@
-D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\BE.ConsoleApp.exe.config
-D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\BE.ConsoleApp.exe
-D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\BE.ConsoleApp.pdb
-D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\BE.ConsoleApp.csproj.AssemblyReference.cache
-D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\BE.ConsoleApp.csproj.CoreCompileInputs.cache
-D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\BE.ConsoleApp.exe
-D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\BE.ConsoleApp.pdb

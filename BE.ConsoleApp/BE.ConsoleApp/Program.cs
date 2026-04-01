@@ -1,39 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BE.ConsoleApp
+﻿public class Program
 {
-    internal class Program
-    { 
-        static void Main(string[] args)
+    public static void Main(string[] args)
+    {
+        var employeerManaget = new BE.DataAccess.Employeer_Manager();
+        var result = employeerManaget.EmployeerInsert("NV001", "John Doe", DateTime.Now);
+        switch (result)
         {
-            int n;
-            do
-            {
-                Console.WriteLine("1. Them san pham");
-                Console.WriteLine("2. Xoa san pham");
-                Console.WriteLine("3. Thoat");
-                Console.WriteLine("Nhap lua chon: ");
-                n = int.Parse(Console.ReadLine()); 
-                switch (n)
-                {
-                    case 1:
-                        Console.WriteLine("Them thanh cong");
-                        break;
-                    case 2:
-                        Console.WriteLine("Xoa thanh cong");
-                        break;
-                    case 3:
-                        Console.WriteLine("Goodbye!");
-                        return;
-                    default:
-                        Console.WriteLine("Bớt nhập ngu lại");
-                        break;
-                }
-            } while (n >= 1 && n <= 3);
+            case (int)BE.DataAccess.@enum.EmployeerManagerStatus.DA_TON_TAI:
+                Console.WriteLine("Nhân viên đã tồn tại.");
+                break;
+            case (int)BE.DataAccess.@enum.EmployeerManagerStatus.THANH_CONG:
+                Console.WriteLine("Thêm nhân viên thành công.");
+                break;
+            case (int)BE.DataAccess.@enum.EmployeerManagerStatus.TEN_KHONG_HOP_LE:
+                Console.WriteLine("Tên nhân viên không hợp lệ.");
+                break;
+            case (int)BE.DataAccess.@enum.EmployeerManagerStatus.MA_NHAN_VIEN_KHONG_HOP_LE:
+                Console.WriteLine("Mã nhân viên không hợp lệ.");
+                break;
         }
     }
 }
