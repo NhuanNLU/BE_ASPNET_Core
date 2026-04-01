@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BE.DataAccess.@enum
+{
+    public enum EmployeerManagerStatus
+    {
+        THANH_CONG = 1,
+        THAT_BAI = -1,
+        TEN_KHONG_HOP_LE = -2,
+        MA_NHAN_VIEN_KHONG_HOP_LE = -3,
+    }
+}
