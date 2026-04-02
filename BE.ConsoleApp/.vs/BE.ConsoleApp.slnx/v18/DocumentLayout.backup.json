@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{23892280-4E4B-4226-B0A7-82651BEA4DF2}|BE.ConsoleApp\\BE.ConsoleApp.csproj|solutionrelative:be.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3E59AF-63C6-4873-A7B1-44E99C5C3503}|BE.Common\\BE.Common.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.common\\validatedatainput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3E59AF-63C6-4873-A7B1-44E99C5C3503}|BE.Common\\BE.Common.csproj|solutionrelative:be.common\\validatedatainput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.dataaccess\\employeer_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|solutionrelative:be.dataaccess\\employeer_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3E59AF-63C6-4873-A7B1-44E99C5C3503}|BE.Common\\BE.Common.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.common\\validatedatainput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3E59AF-63C6-4873-A7B1-44E99C5C3503}|BE.Common\\BE.Common.csproj|solutionrelative:be.common\\validatedatainput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.dataaccess\\enum\\employeermanagerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,13 +34,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ValidateDataInput.cs",
               "DocumentMoniker": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\ValidateDataInput.cs",
               "RelativeDocumentMoniker": "BE.Common\\ValidateDataInput.cs",
               "ToolTip": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\ValidateDataInput.cs",
               "RelativeToolTip": "BE.Common\\ValidateDataInput.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T17:24:20.704Z",
               "EditorCaption": ""
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Employeer_Manager.cs",
               "DocumentMoniker": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Employeer_Manager.cs",
               "RelativeDocumentMoniker": "BE.DataAccess\\Employeer_Manager.cs",
               "ToolTip": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Employeer_Manager.cs",
               "RelativeToolTip": "BE.DataAccess\\Employeer_Manager.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAEwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T17:22:18.837Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "BE.DataAccess\\enum\\EmployeerManagerStatus.cs",
               "ToolTip": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\enum\\EmployeerManagerStatus.cs",
               "RelativeToolTip": "BE.DataAccess\\enum\\EmployeerManagerStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T17:22:13.375Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "BE.ConsoleApp\\Program.cs",
               "ToolTip": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\Program.cs",
               "RelativeToolTip": "BE.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA2wBYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T17:09:31.845Z",
               "EditorCaption": ""

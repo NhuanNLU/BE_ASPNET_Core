@@ -19,3 +19,17 @@ D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\net8.0\refint\BE.
 D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\net8.0\BE.ConsoleApp.pdb
 D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\net8.0\BE.ConsoleApp.genruntimeconfig.cache
 D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\obj\Debug\net8.0\ref\BE.ConsoleApp.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\EPPlus.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Dotnet\BE_ASPNET_Core\BE.ConsoleApp\BE.ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

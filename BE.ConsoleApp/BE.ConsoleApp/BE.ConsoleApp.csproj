@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="EPPlus" Version="8.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BE.Common\BE.Common.csproj" />
     <ProjectReference Include="..\BE.DataAccess\BE.DataAccess.csproj" />
   </ItemGroup>

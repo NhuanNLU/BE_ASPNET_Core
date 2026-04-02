@@ -10,14 +10,14 @@ namespace BE.Common
 {
     public static class ValidateDataInput
     {
-        public static bool ChecValidatenumber(string inputNumber)
+        public static bool ChecValidateNumber(string inputNumber)
         {
             return int.TryParse(inputNumber, out _);
         }
         public static bool CheckValidateString(string inputString)
         {
             if (string.IsNullOrEmpty(inputString)) return false;
-            if(int.TryParse(inputString, out int num )) return false;
+            if(int.TryParse(inputString, out _ )) return false;
             //if (DateTime.TryParse(inputString, "")) return false
             if(inputString.Length > 200) return false;
             return true;
