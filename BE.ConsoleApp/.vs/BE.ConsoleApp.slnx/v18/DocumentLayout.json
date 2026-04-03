@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23892280-4E4B-4226-B0A7-82651BEA4DF2}|BE.ConsoleApp\\BE.ConsoleApp.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23892280-4E4B-4226-B0A7-82651BEA4DF2}|BE.ConsoleApp\\BE.ConsoleApp.csproj|solutionrelative:be.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.dataaccess\\struct\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|solutionrelative:be.dataaccess\\struct\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.dataaccess\\employeer_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|solutionrelative:be.dataaccess\\employeer_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23892280-4E4B-4226-B0A7-82651BEA4DF2}|BE.ConsoleApp\\BE.ConsoleApp.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23892280-4E4B-4226-B0A7-82651BEA4DF2}|BE.ConsoleApp\\BE.ConsoleApp.csproj|solutionrelative:be.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{787DB224-CCDA-47D4-93B1-C248117AAB03}|BE.DataAccess\\BE.DataAccess.csproj|d:\\dotnet\\be_aspnet_core\\be.consoleapp\\be.dataaccess\\enum\\employeermanagerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DateTime.cs",
               "DocumentMoniker": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Struct\\DateTime.cs",
               "RelativeDocumentMoniker": "BE.DataAccess\\Struct\\DateTime.cs",
               "ToolTip": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Struct\\DateTime.cs",
               "RelativeToolTip": "BE.DataAccess\\Struct\\DateTime.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:08:39.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T15:08:39.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ValidateDataInput.cs",
               "DocumentMoniker": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\ValidateDataInput.cs",
               "RelativeDocumentMoniker": "BE.Common\\ValidateDataInput.cs",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "BE.Common\\ValidateDataInput.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T17:24:20.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T17:24:20.704Z"
             },
             {
               "$type": "Document",
@@ -72,12 +70,11 @@
               "RelativeToolTip": "BE.DataAccess\\Struct\\Employeer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T17:23:55.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T17:23:55.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Employeer_Manager.cs",
               "DocumentMoniker": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Employeer_Manager.cs",
               "RelativeDocumentMoniker": "BE.DataAccess\\Employeer_Manager.cs",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "BE.DataAccess\\Employeer_Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T17:22:18.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T17:22:18.837Z"
             },
             {
               "$type": "Document",
@@ -98,18 +94,17 @@
               "RelativeToolTip": "BE.DataAccess\\enum\\EmployeerManagerStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T17:22:13.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T17:22:13.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "BE.ConsoleApp\\Program.cs",
               "ToolTip": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\Program.cs",
               "RelativeToolTip": "BE.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA2wAUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T17:09:31.845Z",
               "EditorCaption": ""
