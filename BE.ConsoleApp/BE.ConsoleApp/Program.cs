@@ -63,5 +63,14 @@ public class Program
         5. Dependency Inversion Principle (DIP): Nguyên lý giảm bớt sự phụ thuộc trực tiếp
         - Dùng Abstraction 
          */
+
+        //Refactor code: 
+        /*
+         Cải thiện thiết kế hệ thống
+         Giúp chương trình dễ hiểu hơn
+         Giúp dễ tìm lỗi
+         Code nhanh hơn
+         Dễ bảo trì
+         */
     }
-}
+}   
