@@ -63,7 +63,6 @@ public class Program
         5. Dependency Inversion Principle (DIP): Nguyên lý giảm bớt sự phụ thuộc trực tiếp
         - Dùng Abstraction 
          */
-
         //Refactor code: 
         /*
          Cải thiện thiết kế hệ thống
@@ -71,6 +70,12 @@ public class Program
          Giúp dễ tìm lỗi
          Code nhanh hơn
          Dễ bảo trì
+         */
+
+
+        /*
+        SQL server cung cấp cho người dùng các công cụ và tính năng để lưu trữ, xử lý các câu truy vấn,
+        kiểm soát dữ liệu, xử lý giao dịch và hỗ trợ tích hợp dữ liệu từ nhiều ngồn khác nhau
          */
     }
 }   
