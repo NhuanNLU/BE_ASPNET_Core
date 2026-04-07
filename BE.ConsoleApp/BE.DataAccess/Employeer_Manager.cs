@@ -39,9 +39,9 @@ namespace BE.DataAccess
                 empl.Add(employeer);
                 result = 1;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw new Exception("Bị lỗi");
             }
             return result;
         }  

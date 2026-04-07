@@ -10,7 +10,7 @@ namespace BE.DataAccess.Struct
     {
         public string Id { get; set; }
         public string Name { get; set; }
-        public DateTime StartDate { get; set; }
+        public System.DateTime StartDate { get; set; }
 
     }
 }

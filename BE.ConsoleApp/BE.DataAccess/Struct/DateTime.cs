@@ -26,5 +26,10 @@ namespace BE.DataAccess.Struct
             dynamic y = b;
             return x + y;
         }
+
+        public static implicit operator DateTime(System.DateTime v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
