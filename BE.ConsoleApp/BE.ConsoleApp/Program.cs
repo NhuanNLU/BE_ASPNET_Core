@@ -76,6 +76,16 @@ public class Program
         /*
         SQL server cung cấp cho người dùng các công cụ và tính năng để lưu trữ, xử lý các câu truy vấn,
         kiểm soát dữ liệu, xử lý giao dịch và hỗ trợ tích hợp dữ liệu từ nhiều ngồn khác nhau
+
+        - DDL (Data Definition Language): Create, Alter, Drop, Delete
+                + Drop: Tái cấu trúc bảng
+                + Delete: xóa dữ liêu   
+        - DML tương tác dữ liệu: Select, Insert, Update
+        - DCL điểu khiển dữ liệu: Grant, Deny, Revoke
+         */
+
+        /*
+         SQL Server Database Engine: là thành phần cốt lỗi của SQL Server, nó quản lý và lưu trữ dữ liệu 
          */
     }
 }   
