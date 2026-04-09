@@ -87,5 +87,18 @@ public class Program
         /*
          SQL Server Database Engine: là thành phần cốt lỗi của SQL Server, nó quản lý và lưu trữ dữ liệu 
          */
+
+        /*
+        Index trong sql server là công cụ tìm kiếm db có thể dùng tăng tốc truy vấn dữ liệu.
+        Index nó trỏ đến địa chỉ dữ liệu trong bảng
+        Thường được tạo mặt định cho primary key, foreign key
+        Cấu trúc index bao gồm: 
+         - Cột search Key: chứa bản sao các giá trị của cột được tạo Index
+         - Cột data Reference: chứa con trỏ trỏ đến địa chỉ của bản ghi có giá trị cột index tương ứng 
+
+        Các kiểu Index:
+        B-Tree Index: Thường được sử dụng
+        Hash index: được tổ chức theo dạng key - value
+         */
     }
 }   
