@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7tHHF+I5pPU=",
+  "dgSpecHash": "6yxyW9fnjLg=",
   "success": true,
-  "projectFilePath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj",
+  "projectFilePath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

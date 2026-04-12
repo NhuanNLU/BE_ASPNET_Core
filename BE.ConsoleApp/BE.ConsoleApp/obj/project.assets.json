@@ -667,11 +667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\BE.ConsoleApp.csproj",
+      "projectUniqueName": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\BE.ConsoleApp.csproj",
       "projectName": "BE.ConsoleApp",
-      "projectPath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\BE.ConsoleApp.csproj",
+      "projectPath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\BE.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\obj\\",
+      "outputPath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -692,11 +692,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj": {
-              "projectPath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj"
+            "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj": {
+              "projectPath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj"
             },
-            "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\BE.DataAccess.csproj": {
-              "projectPath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\BE.DataAccess.csproj"
+            "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\BE.DataAccess.csproj": {
+              "projectPath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\BE.DataAccess.csproj"
             }
           }
         }

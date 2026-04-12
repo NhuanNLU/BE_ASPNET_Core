@@ -50,7 +50,7 @@ public class Program
         //Giúp lập trình viên viết ra những đoạn code dễ đọc, dễ bảo trì, dễ mở rộng, hạn chế tối đa lỗi
         //khi hệ thống phát triển lớn hơn.
         /*
-        1. Single Responsibility Principle (SRP): Nguyên trách nhiệm đơn lẻ
+        1. Single Responsibility Principle (SRP): Nguyên lý trách nhiệm đơn lẻ
         - Một class chỉ nên thực hiện 1 công việc, thay vì nhiều việc trong một class
         - VD dùng Abs hoặc interface để tách riêng các chức năng ra khỏi class chính.
         2. Open/Closed Principle (OCP): Nguyên lý mở/đóng

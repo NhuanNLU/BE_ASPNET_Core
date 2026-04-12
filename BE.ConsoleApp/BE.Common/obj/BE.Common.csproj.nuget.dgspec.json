@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj": {}
+    "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj": {
+    "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj",
+        "projectUniqueName": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj",
         "projectName": "BE.Common",
-        "projectPath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj",
+        "projectPath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\BE.Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\obj\\",
+        "outputPath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

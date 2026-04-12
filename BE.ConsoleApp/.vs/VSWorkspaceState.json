@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BE.ConsoleApp"
+    "\\BE.ConsoleApp",
+    "\\BE.DataAccess",
+    "\\BE.DataAccess\\Connection"
   ],
-  "SelectedNode": "\\BE.ConsoleApp\\Program.cs",
+  "SelectedNode": "\\BE.DataAccess\\obj",
   "PreviewInSolutionExplorer": false
 }

@@ -2,4 +2,6 @@
   <Project Path="BE.Common/BE.Common.csproj" Id="be3e59af-63c6-4873-a7b1-44e99c5c3503" />
   <Project Path="BE.ConsoleApp/BE.ConsoleApp.csproj" Id="23892280-4e4b-4226-b0a7-82651bea4df2" />
   <Project Path="BE.DataAccess/BE.DataAccess.csproj" Id="787db224-ccda-47d4-93b1-c248117aab03" />
+  <Project Path="BE.NetCoreAPI/BE.NetCoreAPI.csproj" Id="cf23feb8-56d1-4b0e-a94b-39eb94bfa318" />
+  <Project Path="BE.NetCoreWeb/BE.NetCoreWeb.csproj" Id="59841c24-ab5f-4565-831f-f243e0072f3c" />
 </Solution>
