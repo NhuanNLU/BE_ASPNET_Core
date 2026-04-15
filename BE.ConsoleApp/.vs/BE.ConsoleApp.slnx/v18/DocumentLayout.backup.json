@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF23FEB8-56D1-4B0E-A94B-39EB94BFA318}|BE.NetCoreAPI\\BE.NetCoreAPI.csproj|d:\\myproject\\dotnet\\be_aspnet_core\\be.consoleapp\\be.netcoreapi\\lythuyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF23FEB8-56D1-4B0E-A94B-39EB94BFA318}|BE.NetCoreAPI\\BE.NetCoreAPI.csproj|solutionrelative:be.netcoreapi\\lythuyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF23FEB8-56D1-4B0E-A94B-39EB94BFA318}|BE.NetCoreAPI\\BE.NetCoreAPI.csproj|d:\\myproject\\dotnet\\be_aspnet_core\\be.consoleapp\\be.netcoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF23FEB8-56D1-4B0E-A94B-39EB94BFA318}|BE.NetCoreAPI\\BE.NetCoreAPI.csproj|solutionrelative:be.netcoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23892280-4E4B-4226-B0A7-82651BEA4DF2}|BE.ConsoleApp\\BE.ConsoleApp.csproj|d:\\myproject\\dotnet\\be_aspnet_core\\be.consoleapp\\be.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23892280-4E4B-4226-B0A7-82651BEA4DF2}|BE.ConsoleApp\\BE.ConsoleApp.csproj|solutionrelative:be.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LyThuyet.cs",
+              "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.NetCoreAPI\\LyThuyet.cs",
+              "RelativeDocumentMoniker": "BE.NetCoreAPI\\LyThuyet.cs",
+              "ToolTip": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.NetCoreAPI\\LyThuyet.cs",
+              "RelativeToolTip": "BE.NetCoreAPI\\LyThuyet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:36:54.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.NetCoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BE.NetCoreAPI\\Program.cs",
+              "ToolTip": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.NetCoreAPI\\Program.cs",
+              "RelativeToolTip": "BE.NetCoreAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:36:15.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\Class1.cs",
               "RelativeDocumentMoniker": "BE.Common\\Class1.cs",
@@ -54,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DateTime.cs",
               "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Struct\\DateTime.cs",
               "RelativeDocumentMoniker": "BE.DataAccess\\Struct\\DateTime.cs",
@@ -66,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ValidateDataInput.cs",
               "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.Common\\ValidateDataInput.cs",
               "RelativeDocumentMoniker": "BE.Common\\ValidateDataInput.cs",
@@ -78,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Employeer.cs",
               "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Struct\\Employeer.cs",
               "RelativeDocumentMoniker": "BE.DataAccess\\Struct\\Employeer.cs",
@@ -90,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Employeer_Manager.cs",
               "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\Employeer_Manager.cs",
               "RelativeDocumentMoniker": "BE.DataAccess\\Employeer_Manager.cs",
@@ -102,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EmployeerManagerStatus.cs",
               "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.DataAccess\\enum\\EmployeerManagerStatus.cs",
               "RelativeDocumentMoniker": "BE.DataAccess\\enum\\EmployeerManagerStatus.cs",
@@ -114,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyProject\\Dotnet\\BE_ASPNET_Core\\BE.ConsoleApp\\BE.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "BE.ConsoleApp\\Program.cs",
